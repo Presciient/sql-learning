@@ -1,4 +1,4 @@
-## This is one of the databases I will be using, Chinook
+## This is one of the databases I will be using, DVDRental
 
 ## Schema : 
 
