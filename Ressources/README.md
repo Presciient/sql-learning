@@ -7,13 +7,12 @@ This is the Resources folder of my SQL learning journey project. It contains all
 ```
 Resources/
 ├── learning_platforms/
-│   └── online_courses.md        # Online courses and tutorials
+│   └── online_courses.md         # Online courses and tutorials
 └── practice_databases/
-    └── sample_databases/        # Example databases
-        ├── sql.sh/
-        │   ├── schema.sql
-        │   └── data.sql
-        └── README.md
+│   └── Chinook.md                # Example databases
+│   └── Northwind.md 
+│   └── DVDRental.md 
+└── README.md      
 ```
 
 ## Component Description
