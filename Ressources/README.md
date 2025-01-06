@@ -6,12 +6,11 @@ This is the Resources folder of my SQL learning journey project. It contains all
 
 ```
 Resources/
-├── learning_platforms/
-│   └── online_courses.md         # Online courses and tutorials
-└── practice_databases/
-│   └── Chinook.md                # Example databases
+├── practice_databases/ 
+│   └── Chinook.md            # Example databases
 │   └── Northwind.md 
-│   └── DVDRental.md 
+│   └── DVDRental.md          # Online courses and tutorials
+├── learning_platforms
 └── README.md      
 ```
 
