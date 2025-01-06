@@ -35,4 +35,4 @@ I know that exercices help a lot to remember, so I will practice right after I l
 I cannot fail. This profession is my dream job. I will learn as much as necessary to be valuable.
 
 ---
-*This repository is part of my journey to learn SQL. Every tips is very much welcome ! Thank you in advance !*
+*This repository is part of my journey to learn SQL. Every tips are very much welcome ! Thank you in advance !*
