@@ -1,6 +1,6 @@
 # SQL Learning Journey
 
-Hi and welcome ! This space documents my progression in learning SQL from basic concepts to more advanced queries. Each section represents a key concept in SQL, complete with exercises and explanations
+Hi and welcome ! This space documents my progression in learning SQL from basic concepts to more advanced queries. Each section represents a key concept in SQL, complete with exercises and some explanations
 
 ## Learning Structure
 
@@ -24,14 +24,14 @@ It is organized into progressive levels of SQL concepts :
 ## Resources
 - [List of learning resources will be added here]
 
-## Progress Tracking
-I will update it as I progress through different SQL concepts. Each folder contains :
-- Exercises with solutions
-- Explanations of key concepts
-- Technical notes and reflections on what I've learned
+## Data bases
+- I will work with 4 differents Data bases that I will put in ressources (yet to be defined) and do 5 to 10 exercices on each known keyword for each data base
+- I will put one exercice as an exemple for each keyword in the designed desk
 
-## Goals
-My goal is to master fundamental SQL queries as well as building a strong foundation for database management
+## Goal
+My goal is to master fundamental SQL queries as well as building a strong foundation.
+I know that exercices help a lot to remember, so I will practice right after I learn a new keyword
+This is the plan for now, I'll see how it goes :D
 
 ---
 *This repository is part of my journey to learn SQL. Feel free to explore my progress!*
