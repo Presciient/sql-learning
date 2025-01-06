@@ -9,8 +9,8 @@ Resources/
 ├── practice_databases/ 
 │   └── Chinook.md            # Example databases
 │   └── Northwind.md 
-│   └── DVDRental.md          # Online courses and tutorials
-├── learning_platforms
+│   └── DVDRental.md          
+├── learning_platforms        # Online courses and tutorials
 └── README.md      
 ```
 
