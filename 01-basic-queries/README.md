@@ -1,8 +1,27 @@
 
 
-Started learning SQL on December 30th. I've been learning on W3schools. The tutoral is decent but the exercices are not really challenging. It's just multiple choices answers and not actual code writting
-so I decided to add other sources for practice. I will mostly use W3schools to learn concepts and then find exercices on the internet to practice. I feel really motivated so far !
+#### In this section, I will learn everything that falls into "basic queries" appellation. I will put an exemple of exercice for each keyword in the exercice file as well as my thoughts/struggles/successes on the keyword/exercice.
 
-My current focus is to do a bunch of different exercices on different databases to consolidate the few basic things I already learned. We're trying to make a solid first layer for the pyramid of knowledge !
+#### Trying to be exhaustive, in this section I aim to learn about : 
 
-I might learn during the first half of the day and practice what I learned during the second one
+-  PRIMARY KEYS
+-  CREATE DATABASE
+-  CREATE TABLE
+-  DROP DATABASE
+-  DROP TABLE
+-  ALTER TABLE
+-  SELECT
+-  INSERT INTO
+-  UPDATE
+-  DELETE
+-  DISTINCT 
+-  WHERE 
+-  AND & OR 
+-  IN 
+-  BETWEEN 
+-  LIKE 
+-  IS NULL / IS NOT NULL 
+-  ORDER BY 
+-  LIMIT 
+
+#### These are basic keywords that I should learn before going to the next folder. I will learn the concepts, do a bunch of exercices for each of them and when I feel confident enough I will come back here and mark the ones that I master. I already know most of them since it has already been a week of learning, but I rather consolidate the knowledge and keep this structure for the next, harder concepts
