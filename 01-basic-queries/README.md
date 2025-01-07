@@ -4,12 +4,6 @@
 
 #### Trying to be exhaustive, in this section I aim to learn about : 
 
--  PRIMARY KEYS
--  CREATE DATABASE
--  CREATE TABLE
--  DROP DATABASE
--  DROP TABLE
--  ALTER TABLE
 -  SELECT
 -  INSERT INTO
 -  UPDATE
