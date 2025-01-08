@@ -1,7 +1,33 @@
+# GROUP BY
+#### Question : For each country in the customer table, calculate the number of customers and the average length of their postal codes.
+#### DATABSE : Chinook
+
+I should've named the new collumns from the aggregarated function for more clarity. I also learned the difference between specifying a collumn in the aggregarate function and not.
+
+As we can see in the exemple, without specifying a collumn I got Chili in the results because "*" counts every row. 
+
+If I specified the postal_code collumn, since the country Chile doesn't have one in my Data Base, it would've not appeared
+
+I gotta be careful about wheither or not I specify a collumn depending on the results I want
 
 
 
+![image](https://github.com/user-attachments/assets/3b98d5bd-eb67-4c66-909d-a7d0f2451173)
 
+---
+
+# ORDER BY
+#### Question : Create a query that displays customers' last names and email addresses, sorted alphabetically by last name in ascending order, but limited to show only the first 15 results. Ensure that only active customers are included
+#### DATABSE : DVDRental
+
+This is one of the easiest function (for now). It even goes after the SELECT function in the way SQL treats commands, it's one of the last ones which makes it really easy to use
+
+You're applying little modifications to the final cake, most of the hard work is already done. It's like only having to put the star on the Chrismast three
+
+
+![image](https://github.com/user-attachments/assets/a6bc93db-95e7-46d0-8683-1e4dc3a3e0af)
+
+---
 
 # LIKE
 #### Question : Find all products where the product name contains either 'wood' or 'metal' and has an unit that is not empty.
@@ -10,8 +36,6 @@ The LIKE opperator is case sensitive on PostgreSQL, so I should use the UPPER() 
 There is ILIKE for Postgre but since it only works on Postgre apparently it's not a good habit to use it. Even if it's really useful. I will stick to UPPER and LOWER for now and try to get more opinions on that
 
 Some stuff from last lessons, targetting the right fields instead of using "*" ☑️ parentheses for AND & OR ☑️
-
-
 
 
 
